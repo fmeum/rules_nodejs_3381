@@ -1,0 +1,9 @@
+{
+  "name": "rules_nodejs_3381",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "taiko": "^1.3.2"
+  }
+}
